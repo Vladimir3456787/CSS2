@@ -27,7 +27,7 @@ h3 {
 
 p {
   line-height: 2;
-  font-family: 'Kolker Brush', cursive;
+  font-family: 'Merriweather', serif;
 }
 
 hr {
@@ -75,7 +75,7 @@ a:hover {
 
 .intro {
   width: 30%;
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Merriweather', serif;
   margin: auto;
 }
 
